@@ -1,7 +1,12 @@
+import './header.css';
+
 function Header() {
     return (
       <header>
-        <h1>Under Construction header</h1>
+        <div id="title-bar">
+                <img id="main-logo" src="img/icon.PNG" alt="AEML" />
+                <span id="title">&nbsp;AVIVA Equity Management Limited</span>
+            </div>
         <nav>
             <ul>
                 <li>Nav 1</li>

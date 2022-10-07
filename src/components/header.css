@@ -1,0 +1,41 @@
+@font-face {
+    font-family: Ubuntu;
+    src: url(fonts/Ubuntu/Ubuntu-Regular.ttf);
+  }
+
+@font-face {
+    font-family: Roboto;
+    src: url(fonts/Roboto/Roboto-Regular.ttf);
+  }
+
+@font-face {
+    font-family: Lato;
+    src: url(fonts/Lato/Lato-Regular.ttf);
+}
+
+@font-face {
+    font-family: Crimson;
+    src: url('https://fonts.googleapis.com/css2?family=Crimson+Text:wght@400;600;700&display=swap');
+}
+
+
+#title-bar{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: 10px;
+    background-color: #5cb0d2;
+}
+
+#main-logo{
+    height: 60px;
+}
+
+#title{
+    font-size: 35pt;
+    /* font-family: Lato; */
+    /* font-family: Roboto; */
+    font-family: Crimson;
+    color: white;
+}
