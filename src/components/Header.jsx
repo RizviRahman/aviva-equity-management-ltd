@@ -1,4 +1,5 @@
 import './header.css';
+// import Link from 'react-router-dom';
 
 function Header() {
     return (
@@ -6,7 +7,7 @@ function Header() {
         <div id="title-bar">
                 <img id="main-logo" src="img/icon.PNG" alt="AEML" />
                 <span id="title">&nbsp;AVIVA Equity Management Limited</span>
-            </div>
+        </div>
         <nav>
             <ul>
                 <li>Nav 1</li>
