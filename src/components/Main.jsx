@@ -4,10 +4,18 @@ function Main() {
       <main>
         <section className='home'>
             <article className='profile'>
-                <figure>
+                <figure className='profileImg'>
                     <img src="logo192.png" alt="Official pictures of Aviva equity management ltd."/>
                 </figure>
-                <p>Profile msg</p>
+                <p className='profileMsg'>
+                    <strong>AVIVA Equity Management Limited</strong> a subsidiary of 
+                    <strong> AVIVA Finance Limited</strong> is one of the leading brokerage 
+                    companies in Bangladesh offering full-fledged standard brokerage 
+                    services for the retail, institutional, NRB, and foreign clients 
+                    with a dedicated team of skilled professionals having membership 
+                    at both the Dhaka Stock Exchange <strong>(DSE)</strong> and the 
+                    Chittagong Stock Exchange <strong>(CSE)</strong>.
+                </p>
             </article>
             <article className='links'>
                 <ul>

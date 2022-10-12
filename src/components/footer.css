@@ -1,0 +1,12 @@
+@media screen and (min-width: 1100px){
+    footer{
+        width: 1250px;
+        height: 250px;
+        border: 2px dashed lightgray;
+        margin: 0 auto;
+        /* position: relative; */
+        /* margin-top: 20px; */
+        /* display: flex; */
+    }
+
+}

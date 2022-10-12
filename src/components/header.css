@@ -51,12 +51,13 @@ header{
 nav{
     position: relative;
     background-color: #075573;
-    width: 1200px;
+    width: 1250px;
     height: 35px;
     display: flex;
     justify-content: center;
     top: 20px;
     margin: auto;
+    border-radius: 5px;
     /* list-style: none; */
 }
 
