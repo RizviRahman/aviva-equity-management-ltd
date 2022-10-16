@@ -36,13 +36,13 @@
         border: 2px dashed lightblue;
     }
 
-    .links{
+    .useful-links{
         height: 100%;
         width: 450px;
         border: 2px dashed lightblue;
     }
 
-    .links>ul{
+    .useful-links>ul{
         height: 50%;
         width: 100%;
         list-style: none;

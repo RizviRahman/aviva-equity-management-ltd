@@ -17,7 +17,7 @@ function Main() {
                     Chittagong Stock Exchange <strong>(CSE)</strong>.
                 </p>
             </article>
-            <article className='links'>
+            <article className='useful-links'>
                 <ul>
                     <li>Notice board 1</li>
                     <li>Notice board 2</li>

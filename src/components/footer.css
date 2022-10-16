@@ -4,9 +4,37 @@
         height: 250px;
         border: 2px dashed lightgray;
         margin: 0 auto;
+        /* list-style: none; */
         /* position: relative; */
         /* margin-top: 20px; */
-        /* display: flex; */
+        display: flex;
+    }
+    article>ul>li{
+        list-style: none;
+    }
+
+    .compani-profile{
+        width: 40%;
+        text-align: justify;
+        padding-right: 15px;
+    }
+
+    .links{
+        width: 25%;
+        padding-left: 40px;
+    }
+
+    .contact{
+        width: 35%;
+    }
+
+    .contact li{
+        height: 30px;
+        /* padding-bottom: 5px; */
+    }
+    .contact li>a{
+        height: 30px; 
+        padding: 5px;
     }
 
 }
